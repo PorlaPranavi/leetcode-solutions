@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
