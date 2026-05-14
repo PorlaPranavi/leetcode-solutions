@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,8 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
