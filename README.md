@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Recursion
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## String Matching
 |  |
 | ------- |
