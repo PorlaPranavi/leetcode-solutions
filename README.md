@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0001-two-sum) |
+| [0771-jewels-and-stones](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1528-shuffle-string) |
 ## Recursion
 |  |
