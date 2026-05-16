@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0001-two-sum) |
 | [0771-jewels-and-stones](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Divide and Conquer
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
@@ -125,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0832-flipping-an-image) |
+## Sorting
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
