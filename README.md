@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
