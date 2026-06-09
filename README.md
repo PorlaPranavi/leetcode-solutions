@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Recursion
 |  |
 | ------- |
