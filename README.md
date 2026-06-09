@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [1844-replace-all-digits-with-characters](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Recursion
 |  |
