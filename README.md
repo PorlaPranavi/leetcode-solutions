@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3248-snake-in-matrix](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3248-snake-in-matrix](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3248-snake-in-matrix](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 ## Recursion
 |  |
 | ------- |
