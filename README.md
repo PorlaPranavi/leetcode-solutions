@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2706-buy-two-chocolates](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3248-snake-in-matrix](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 ## Hash Table
 |  |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2706-buy-two-chocolates](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Trie
 |  |
 | ------- |
@@ -296,4 +298,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2706-buy-two-chocolates](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
