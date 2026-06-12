@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
