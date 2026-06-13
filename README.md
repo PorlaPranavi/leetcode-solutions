@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0704-binary-search) |
@@ -308,9 +309,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
