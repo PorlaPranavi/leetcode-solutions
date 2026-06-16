@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0704-binary-search) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
