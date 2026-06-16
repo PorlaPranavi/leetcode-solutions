@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
