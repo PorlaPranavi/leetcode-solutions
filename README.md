@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Sorting
@@ -390,10 +392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
