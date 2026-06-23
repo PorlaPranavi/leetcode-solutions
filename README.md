@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/0077-combinations) |
 ## Sliding Window
 |  |
