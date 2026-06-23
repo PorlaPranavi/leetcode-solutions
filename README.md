@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3248-snake-in-matrix](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/3248-snake-in-matrix) |
+| [3612-process-string-with-special-operations-i](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Number Theory
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3248-snake-in-matrix](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/3248-snake-in-matrix) |
+| [3612-process-string-with-special-operations-i](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/PorlaPranavi/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Recursion
 |  |
